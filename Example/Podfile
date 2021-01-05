@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LiuBaseLib_Example' do
+  pod 'LiuBaseLib', :path => '../'
+
+  target 'LiuBaseLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
