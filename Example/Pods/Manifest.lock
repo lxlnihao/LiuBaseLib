@@ -1,0 +1,16 @@
+PODS:
+  - LiuBaseLib (0.1.0)
+
+DEPENDENCIES:
+  - LiuBaseLib (from `../`)
+
+EXTERNAL SOURCES:
+  LiuBaseLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LiuBaseLib: ab6295031aeaab2e2995658862be4ec524beb0e6
+
+PODFILE CHECKSUM: 605d861b7472f34571a29edab6bbcec2e8b6bb30
+
+COCOAPODS: 1.9.3
