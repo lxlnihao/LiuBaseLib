@@ -1,7 +1,7 @@
 {
   "name": "LiuBaseLib",
-  "version": "0.1.0",
-  "summary": "A short description of LiuBaseLib.",
+  "version": "0.1.1",
+  "summary": "公共基础库",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/lxlnihao/LiuBaseLib",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/lxlnihao/LiuBaseLib.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"

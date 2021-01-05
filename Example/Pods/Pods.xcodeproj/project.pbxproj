@@ -53,28 +53,28 @@
 		3B004FEABAB36CFE153975D6D0F5405F /* Pods-LiuBaseLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LiuBaseLib_Example-umbrella.h"; sourceTree = "<group>"; };
 		45B929A83F382F4E157A2FC6887CC166 /* Pods-LiuBaseLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LiuBaseLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4E9F781D0C12171175893614B4AC5190 /* Pods-LiuBaseLib_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LiuBaseLib_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		50DD364B9D27844AAE6ED10667AD8A83 /* Pods_LiuBaseLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LiuBaseLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		52EF0775B07873713BA67F007B8DC06A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		50DD364B9D27844AAE6ED10667AD8A83 /* Pods_LiuBaseLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LiuBaseLib_Tests.framework; path = "Pods-LiuBaseLib_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52EF0775B07873713BA67F007B8DC06A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		54F022A6344100CD2AA8F1E7B09BE7E3 /* LiuBaseLib.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LiuBaseLib.release.xcconfig; sourceTree = "<group>"; };
 		588E22E6477C1C17FCB0CD7E179EB7E6 /* LiuBaseLib.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LiuBaseLib.debug.xcconfig; sourceTree = "<group>"; };
-		61339F793638D4AFE53E356AD787231B /* LiuBaseLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LiuBaseLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6E05A61FBD90201687D33FDFE125F83C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		61339F793638D4AFE53E356AD787231B /* LiuBaseLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LiuBaseLib.framework; path = LiuBaseLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E05A61FBD90201687D33FDFE125F83C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		77289B83B6542A5BA843579F5621768D /* LiuBaseLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LiuBaseLib-umbrella.h"; sourceTree = "<group>"; };
 		87451F14EAE86AB37066F171B65C185A /* Pods-LiuBaseLib_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LiuBaseLib_Tests.modulemap"; sourceTree = "<group>"; };
 		9557FED679A10D1EF472171603D6AC9F /* Pods-LiuBaseLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LiuBaseLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AB214F92469288061CFF83B4F2CDF2A1 /* LiuBaseLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LiuBaseLib.modulemap; sourceTree = "<group>"; };
 		ABDEB4CB0EE7C89D7CF8B2EFFC7312A6 /* Pods-LiuBaseLib_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LiuBaseLib_Tests-umbrella.h"; sourceTree = "<group>"; };
 		AE2372D91EA2ACB981EBCE12D21D00C1 /* Pods-LiuBaseLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LiuBaseLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B31EB3E28612263882FDA065881EACCE /* Pods-LiuBaseLib_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LiuBaseLib_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		C7F99F1375BFE4F7F56403E4DC90026A /* LiuBaseLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LiuBaseLib.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		C7F99F1375BFE4F7F56403E4DC90026A /* LiuBaseLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LiuBaseLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CB838475D92C413BDB3E41A9A122E6E5 /* Pods-LiuBaseLib_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LiuBaseLib_Example-Info.plist"; sourceTree = "<group>"; };
 		D44E20D7BFBD17881921D282130E0C01 /* UILabel+FuncChains.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+FuncChains.m"; path = "LiuBaseLib/Classes/UILabel+FuncChains.m"; sourceTree = "<group>"; };
 		D4EED6D0FF5D49173C2B7AC924DAA24C /* LiuBaseLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LiuBaseLib-Info.plist"; sourceTree = "<group>"; };
 		DB22CD9AAAC6600C5F134D62F9BA599C /* LiuBaseLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LiuBaseLib-dummy.m"; sourceTree = "<group>"; };
 		DD15CA41ABC03A3D788932425F759906 /* Pods-LiuBaseLib_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LiuBaseLib_Example-dummy.m"; sourceTree = "<group>"; };
 		E4FE9293EEE2703E7CF95B4BEC3CE785 /* Pods-LiuBaseLib_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LiuBaseLib_Tests-Info.plist"; sourceTree = "<group>"; };
-		F0B69AFC2E893265BCAF647D4FD4E2D7 /* Pods_LiuBaseLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LiuBaseLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0B69AFC2E893265BCAF647D4FD4E2D7 /* Pods_LiuBaseLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LiuBaseLib_Example.framework; path = "Pods-LiuBaseLib_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3D114FA34D19F3041B87D0E7C3CA142 /* UIButton+FuncChains.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+FuncChains.m"; path = "LiuBaseLib/Classes/UIButton+FuncChains.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -535,7 +535,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

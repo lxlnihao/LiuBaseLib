@@ -1,5 +1,5 @@
 PODS:
-  - LiuBaseLib (0.1.0)
+  - LiuBaseLib (0.1.1)
 
 DEPENDENCIES:
   - LiuBaseLib (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LiuBaseLib: ab6295031aeaab2e2995658862be4ec524beb0e6
+  LiuBaseLib: 57b0299b2c322c86b935549fd255b3510dad2c60
 
 PODFILE CHECKSUM: 605d861b7472f34571a29edab6bbcec2e8b6bb30
 
